@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-</p>
-
 
 <p class="second-section-name">
 <span class="second-section-name2">УЧЕНЬ ТРЕТІЙ</span> — засновник Книжкового Раю
 </p>
-</div>
-</section>
 
 
 <section class="third-section">
@@ -99,7 +94,3 @@
 <button class="footer-button" type="submit">Підписатися</button>
 </form>
 </footer>
-
-
-</body>
-</html>
