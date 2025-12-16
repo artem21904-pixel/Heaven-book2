@@ -1,6 +1,6 @@
 
 <p class="second-section-name">
-<span class="second-section-name2">УЧЕНЬ ТРЕТІЙ</span> — засновник Книжкового Раю
+<span class="second-section-name2"></span> — засновник Книжкового Раю
 </p>
 
 
